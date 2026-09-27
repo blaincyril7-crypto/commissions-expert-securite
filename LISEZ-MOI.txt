@@ -1,0 +1,2 @@
+Commissions PWA V19 — correction VD/VF
+Prime VD = uniquement VD. Prime Palier = ventes totales VD + VF.
